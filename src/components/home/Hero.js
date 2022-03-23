@@ -12,7 +12,7 @@ export default function Hero() {
         <div className="hero-welcome">
           <h1>
             <span className="greeting">
-              Hi there
+              Hi there!
               <span role="img" aria-label="Hand wave emoji">
                 👋
               </span>{' '}
